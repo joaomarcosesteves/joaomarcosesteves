@@ -9,7 +9,9 @@
 
 <p style="font-size: 13pt">Estudante de tecnologia, buscando se desenvolver e aprender cada vez mais.  Atualmente me especializando em desenvolvimento web, afim de se tornar futuramente um grande Dev Fullstack Web/Mobile. </p>
 
-<p style="font-size: 13pt">Aqui estão alguns projetos que desenvolvi, mas calma lá, projetos novos estão por vir! 👨🏽‍💻🚀</p>
+<p style="font-size: 13pt">Aqui estão alguns projetos que desenvolvi, ainda falta alguns que ainda vou publicar, além dos projetos novos estão por vir! 🚀</p>
+
+<p style="font-size: 13pt">Portifólio em desenvolvimento... 👨‍💻🛠⏳  </p>
 
 <br/>
 
