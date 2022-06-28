@@ -1,7 +1,7 @@
 ## Olá, Eu sou o João Marcos 😀 </br>
 
 <div style="font-size: 13pt"> 
-    🧑🏻  20 Anos <br>
+    🧑🏻  21 Anos <br>
     👨🏻‍🎓 Ciência da Computação 2/4. <br>
     👨‍💻 Desenvolvedor Web jr. <br>
     📍  São Jose dos Campos/SP <br>
