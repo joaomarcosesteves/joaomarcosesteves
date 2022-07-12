@@ -1,17 +1,17 @@
-## Olá, Eu sou o João Marcos 😀 </br>
+## Hello, I am João Marcos 😀 </br>
 
 <div style="font-size: 13pt"> 
-    🧑🏻  21 Anos <br>
-    👨🏻‍🎓 Ciência da Computação 2/4. <br>
-    👨‍💻 Desenvolvedor Web jr. <br>
-    📍  São Jose dos Campos/SP <br>
+    🧑🏻  21 Years <br>
+    👨🏻‍🎓  Computer science 2/4. <br>
+    👨‍💻  Web Developer <br>
+    📍   São Jose dos Campos/SP <br>
 </div><br/>
 
-<p style="font-size: 13pt">Estudante de tecnologia, buscando se desenvolver e aprender cada vez mais.  Atualmente me especializando em desenvolvimento web, afim de se tornar futuramente um grande Dev Fullstack Web/Mobile. </p>
+<p style="font-size: 13pt">Web developer, currently focused on front end, but studying to become fullstack with javascript. </p>
 
-<p style="font-size: 13pt">Aqui estão alguns projetos que desenvolvi, ainda falta alguns que ainda vou publicar, além dos projetos novos estão por vir! 🚀</p>
+<p style="font-size: 13pt">Here are some projects developed for study and practice, always trying to develop and learn more ! 🚀</p>
 
-<p style="font-size: 13pt">Portifólio em desenvolvimento... 👨‍💻🛠⏳  </p>
+<p style="font-size: 13pt">projects in development... 👨‍💻🛠⏳  </p>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-## Tecnologias Utilizadas
+## Technologies
 
 <div style="display: inline_block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,6 +35,6 @@
 
 <br/>
 
-## Contato
+## Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcos-esteves-pereira-a5b2b317a)
