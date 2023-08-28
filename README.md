@@ -1,10 +1,10 @@
 ## Hello Dev </br>
 
 <div style="font-size: 13pt"> 
-    🧑🏻  21 Years <br>
+    🧑🏻  22 Years <br>
     👨🏻‍🎓  Computer science 2/4. <br>
     👨‍💻  Web Developer <br>
-    📍   São Jose dos Campos/SP <br>
+    📍   São Jose dos Campos/SP - Brazil <br>
 </div><br/>
 
 <p style="font-size: 13pt">Web developer, currently focused on front end, but studying to become fullstack with javascript. </p>
@@ -12,6 +12,8 @@
 <p style="font-size: 13pt">Here are some projects developed for study and practice, always trying to develop and learn more ! 🚀</p>
 
 <p style="font-size: 13pt">projects in development... 👨‍💻🛠⏳  </p>
+
+<p style="font-size: 13pt">My Portfolio: <a> https://jmep-fd3843e10b1c.herokuapp.com/ </a> </p>
 
 <br/>
 
